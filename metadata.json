@@ -1,0 +1,6 @@
+{
+  "name": "Visual Effects Simulator",
+  "description": "A formal, high-polish single-screen application for simulating real-time snowflake and balloon canvas animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
